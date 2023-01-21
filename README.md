@@ -2,6 +2,7 @@
 Description of the installation and the different modalities.
 
 Link to Instructions for Transmodalis - Hue
+
 Link to Instructions for Transmodalis - Audio
 Link to Instructions for Transmodalis - Haptics
 
