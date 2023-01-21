@@ -4,10 +4,12 @@ Description of the installation and the different modalities.
 Link to Instructions for Transmodalis - Hue
 
 Link to Instructions for Transmodalis - Audio
+
 Link to Instructions for Transmodalis - Haptics
 
 ## Description of Transmodalis - Hue:
 Description of what the game is Lorem ipsum dolor sit amet, consectetur adipiscing elit...
+
 ## Instructions for how to install and start Transmodalis - Hue
 	1. Download the file "Transmodalis - Hue.rar"
 	2. Unpack the folder "Transmodalis - Hue" inside the file "Transmodalis - Hue.rar" to a location of your choice.
