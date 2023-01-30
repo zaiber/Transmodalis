@@ -90,15 +90,16 @@ Player One uses Controller 1, and Player Two uses Controller 2.
 ## PLAYER ONE XBOX CONTROLLER 1
 	Left Stick Up 	- Move left paddle up
 	Left Stick Down - Move left paddle down
-	A - Put ball into play
-	Y - Cycle between different graphic modes
+	A-button 	- Put ball into play
+	Y-button	- Cycle between different graphic modes
+	Start-button	- Pause & Unpause
 	
 ## PLAYER TWO XBOX CONTROLLER 2
 	Left Stick Up 	- Move right paddle up
 	Left Stick Down - Move right paddle down
-	A - Put ball into play
-	Y - Cycle between different graphic modes
-	
+	A-button 	- Put ball into play
+	Y-button	- Cycle between different graphic modes
+	Start-button	- Pause & Unpause
 ## KEYBOARD
 	Space - Put ball into play
 	F - Cycle between different graphic modes
