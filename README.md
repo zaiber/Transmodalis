@@ -1,12 +1,6 @@
 # TRANSMODALIS
 Description of the installation and the different modalities.
 
-Link to Instructions for Transmodalis - Hue
-
-Link to Instructions for Transmodalis - Audio
-
-Link to Instructions for Transmodalis - Haptics
-
 # Description of Transmodalis - Hue:
 Description of what the game is Lorem ipsum dolor sit amet, consectetur adipiscing elit...
 
@@ -45,7 +39,7 @@ Start the game by double clicking on the application file named "Transmodalis - 
 
 Transmodalis - Audio has 3 play modes that can be selected from the in-game start menu: Begin, Train, and Learn. Begin is a classic two-player game, Train is a single player training game, and Learn gives a demonstration of all the game user interface's audio signals.
 
-## INSTALL INSTRUCTIONS & TROUBLESHOOTING
+## Instructions for how to install and start Transmodalis - Audio
 
 1.	Either connect the Xbox 360 Controllers to the computer with USB cable or connect the Xbox 360 		Wireless Gaming Receiver dongle to the computer and sync the two Xbox 360 Controllers to the 		dongle. 
 
